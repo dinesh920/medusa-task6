@@ -1,0 +1,18 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\pmdin\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.3
+2 info using node@v20.17.0
+3 silly config load:file:C:\Users\pmdin\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\medusa-task-6\my-medusa-store\.npmrc
+5 silly config load:file:C:\Users\pmdin\.npmrc
+6 silly config load:file:C:\Users\pmdin\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec babel src -d dist --ignore src/admin/**
+8 verbose argv "exec" "--yes" "false" "--" "babel" "src" "-d" "dist" "--ignore" "src/admin/**"
+9 verbose logfile logs-max:10 dir:C:\medusa-task-6\my-medusa-store\UserspmdinAppDataRoamingnpm\_logs\2024-09-24T16_52_41_265Z-
+10 verbose logfile C:\medusa-task-6\my-medusa-store\UserspmdinAppDataRoamingnpm\_logs\2024-09-24T16_52_41_265Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd C:\medusa-task-6\my-medusa-store
+13 verbose os Windows_NT 10.0.22631
+14 verbose node v20.17.0
+15 verbose npm  v10.8.3
+16 verbose exit 0
+17 info ok
